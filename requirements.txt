@@ -1,0 +1,2 @@
+IMAPClient==1.0.2
+pyzmail36==1.0.3
