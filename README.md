@@ -5,6 +5,7 @@ The program does the following:
 * It checks your email every 10 minutes 
 * Find a mail with a password in subject of mail and torrent link as mail body
 * Launches qBitTorrent with the given torrent link and starts downloading the given movie link
+* Delete the mail so it won't download the same movie again
 * Post completion of downloading it sends a success email to the sender
 
 Make sure to set your qBitTorrent to automatically close after completion of downloading.
