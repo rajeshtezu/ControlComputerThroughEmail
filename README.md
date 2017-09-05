@@ -8,7 +8,8 @@ The program does the following:
 * Delete the mail so it won't download the same movie again
 * Post completion of downloading it sends a success email to the sender
 
-Make sure to set your qBitTorrent to automatically close after completion of downloading.
+Make sure to set your qBitTorrent to automatically close after completion of downloading.  
+I recommend to create a separate gmail account for this and don't forget to make this account less secure.
 
 
 ### Clone this project:
